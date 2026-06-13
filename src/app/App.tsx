@@ -374,7 +374,7 @@ export default function App() {
               >
                 <a
                   href={resumePDF}
-                  download="Gian_Paolo_Oga_Resume.pdf"
+                  download="Gian_Paolo_Oga.pdf"
                   className="flex items-center gap-2 px-5 md:px-7 py-3 md:py-4 rounded-xl border border-white/20 bg-white/5 hover:bg-white/10 text-sm md:text-base font-medium transition-all"
                 >
                   <Download className="w-5 h-5" />
