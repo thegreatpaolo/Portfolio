@@ -4,7 +4,7 @@ import * as Dialog from '@radix-ui/react-dialog';
 import { Mail, Github, ExternalLink, X, MapPin, Phone, Download, Menu } from 'lucide-react';
 import profilePic from '../assets/profile for prtfolio.png';
 import { courtImage, webImage1, webImage2, Kaboooom, webImage3, webImage4  } from '../assets';
-import resumePDF from '../assets/Gian Paolo Oga - Resume.pdf';
+import resumePDF from '../assets/Gian Paolo Oga.pdf';
 interface Project {
   id: number;
   title: string;
