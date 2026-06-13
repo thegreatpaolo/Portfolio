@@ -429,7 +429,7 @@ export default function App() {
           <AnimatedSection className="text-center mb-14">
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">What I do</h2>
             <p className="text-gray-400 max-w-2xl mx-auto text-sm">
-              I'm an aspiring full-stack developer with a strong desire to broaden my technological knowledge and a keen interest in crafting both visually appealing designs and seamless functionality.
+             I am a front-end and web developer specializing in building modern, responsive user interfaces. I bridge the gap between creative visual designs and clean, functional code, ensuring a seamless user experience across all devices and platforms.
             </p>
           </AnimatedSection>
  
