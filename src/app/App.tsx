@@ -526,16 +526,16 @@ export default function App() {
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">Let's Connect</h2>
             <p className="text-gray-400 text-sm mb-12">Have a project in mind or want to collaborate? Reach out!</p>
             <div className="flex justify-center items-center gap-10 flex-wrap">
-              {/* Telegram */}
+              {/* GitHub (Replaced Telegram) */}
               <a 
-              href="https://t.me/GianPaolo_Dev" 
+              href="https://github.com/thegreatpaolo" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="group flex flex-col items-center gap-3">
-                <div className="w-16 h-16 flex items-center justify-center bg-white/5 rounded-full border border-white/10 group-hover:border-sky-400/60 group-hover:bg-sky-400/10 transition-all">
-                  <svg className="w-7 h-7 text-gray-400 group-hover:text-sky-400 transition-colors" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0C5.346 0 0 5.346 0 11.944c0 6.598 5.346 11.944 11.944 11.944 6.598 0 11.944-5.346 11.944-11.944C23.888 5.346 18.542 0 11.944 0zm5.206 16.561c-.19.605-.838.835-1.391.564l-4.512-2.193-2.028 1.956c-.347.335-.91.135-.91-.341V13.88l6.194-5.836c.154-.145-.045-.224-.226-.1l-7.658 4.821-3.693-1.157c-.59-.185-.603-.984.013-1.188l13.14-5.06c.556-.214 1.106.214.935.795l-1.974 9.406z"/></svg>
+                <div className="w-16 h-16 flex items-center justify-center bg-white/5 rounded-full border border-white/10 group-hover:border-purple-400/60 group-hover:bg-purple-400/10 transition-all">
+                  <Github className="w-7 h-7 text-gray-400 group-hover:text-purple-400 transition-colors" />
                 </div>
-                <span className="text-xs text-gray-500">Telegram</span>
+                <span className="text-xs text-gray-500">GitHub</span>
               </a>
 
               {/* LinkedIn */}
